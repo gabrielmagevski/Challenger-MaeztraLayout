@@ -31,7 +31,7 @@ export const Popup = styled.div`
     max-width: 425px;
     padding: 0;
 
-    left: 68%;
+    left: 60%;
   }
 `;
 
@@ -108,7 +108,7 @@ export const CloseButton = styled.button`
 
   @media screen and (min-width: 1024px) {
     top: 20%;
-    right: 236px;
+    right: 29%;
   }
 `;
 
