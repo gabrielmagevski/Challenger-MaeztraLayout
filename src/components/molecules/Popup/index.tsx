@@ -16,7 +16,7 @@ import {
 
 import EmailIcon from "../../../assets/images/Popup/mail-icon.png";
 import SendIcon from "../../../assets/images/Popup/send-icon.png";
-import PopupImageDesktop from "../../../assets/images/Popup/popupDesktopImage.png";
+import PopupImageDesktop from "../../../assets/images/Popup/popup.png";
 import { useMediaQuery } from "react-responsive";
 
 export const PopupModal = () => {
