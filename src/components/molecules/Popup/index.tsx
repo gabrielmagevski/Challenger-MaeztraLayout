@@ -65,12 +65,10 @@ export const PopupModal = () => {
             </PopupWrapper>
           </PopupContent>
         </Popup>
-        {isDesktopOrLaptop ? (
+        {isDesktopOrLaptop && (
           <PopupWrapperImg>
             <img src={PopupImageDesktop} alt="desktop" />
           </PopupWrapperImg>
-        ) : (
-          ""
         )}
       </Overlay>
     </>
