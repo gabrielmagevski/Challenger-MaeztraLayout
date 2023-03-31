@@ -1,6 +1,6 @@
 import { useMediaQuery } from "react-responsive";
 import infoimgMobile from "../../../assets/images/Info/infoimg.png";
-import infoimgDesktop from "../../../assets/images/Info/infoDesktop.png";
+import infoimgDesktop from "../../../assets/images/Info/info-desktop.png";
 
 import { HomeInfoContainer, SubTitleInfo, TitleInfo, WrapperInfo } from "./Info";
 
